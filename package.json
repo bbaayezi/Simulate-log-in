@@ -1,0 +1,20 @@
+{
+  "name": "ICE-Sim-Sign-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "babel-node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
